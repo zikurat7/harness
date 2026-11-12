@@ -1,5 +1,8 @@
 # Internal Knowledge Harness: Junior SWE jobs around Zwolle
 
+### Homepage
+![Homepage](pics/pic1.png)
+
 ## Purpose
 Help one user (an aspiring junior software engineer) find vacancies in and around Zwolle
 and prepare for applying. The user asks questions; this harness answers them from the
