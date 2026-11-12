@@ -6,6 +6,7 @@ Reads context/vacancies/*.md, context/interview-prep/*.md, context/sync-log.md.
 Uses only the standard library.
 """
 import json
+import os
 import sys
 from datetime import date
 from pathlib import Path
@@ -59,7 +60,7 @@ def main():
         "window.HARNESS_DATA = " + json.dumps(data, ensure_ascii=False, indent=2) + ";\n",
         encoding="utf-8",
     )
-    print(f"Wrote {OUT.relative_to(ROOT)}: {len(data['vacancies'])} vacancies, {len(data['prep'])} prep notes")
+    print(f"Wrote {os.path.relpath(OUT, ROOT)}: {len(data['vacancies'])} vacancies, {len(data['prep'])} prep notes")
 
 
 if __name__ == "__main__":
