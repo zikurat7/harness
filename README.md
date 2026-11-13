@@ -3,6 +3,14 @@
 ### Homepage
 ![Homepage](pics/pic1.png)
 
+## Stack
+- **Knowledge base:** plain Markdown files with `key: value` front matter in `context/`
+- **Agent:** Claude Code, with two skills in `.claude/skills/` (`kb-answer`, `kb-sync`)
+- **Build script:** Python 3 standard library only (`scripts/build_site.py`)
+- **Website:** static single page, plain HTML/CSS/JavaScript, no framework or bundler (`site/`)
+- **Tests:** Python `unittest` (`tests/`)
+- **CI:** GitHub Actions runs the tests on Python 3.12 (`.github/workflows/test.yml`)
+
 ## Purpose
 Help one user (an aspiring junior software engineer) find vacancies in and around Zwolle
 and prepare for applying. The user asks questions; this harness answers them from the
