@@ -9,7 +9,7 @@ english_option: unknown
 contact: Ben Bitter, Campus Recruiter, phone "06-23227384"; WhatsApp https://wa.me/+31623227384; email not shown on page (hidden)
 apply_url: https://www.werkenbijbakertilly.nl/vacatures/junior-consultant-it-advisory-zwolle-2712290/solliciteer
 source_url: https://www.werkenbijbakertilly.nl/vacatures/junior-consultant-it-advisory-zwolle-2712290
-fetched: 2026-11-12
+fetched: 2026-11-13
 status: open
 ---
 

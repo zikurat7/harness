@@ -9,7 +9,7 @@ english_option: unknown
 contact: Irja Schigt, Recruiter Stagedesk, phone "+31610895345"; email not shown on page (hidden)
 apply_url: https://www.werkenbijachmea.nl/vacatures/hbo-wo-afstudeerstagiair-softwareontwikkeling-ai-apeldoorn-a0wqs00000dnzzzia1/solliciteer
 source_url: https://www.werkenbijachmea.nl/vacatures/hbo-wo-afstudeerstagiair-softwareontwikkeling-ai-apeldoorn-a0wqs00000dnzzzia1
-fetched: 2026-11-12
+fetched: 2026-11-13
 status: open
 ---
 

@@ -9,7 +9,7 @@ english_option: unknown
 contact: Bram Köhler, Recruitment Business Partner, phone "+31 6 865 518 24"; WhatsApp https://wa.me/31686551824; email not shown on page (hidden)
 apply_url: https://werkenbij.ilionx.com/vacatures/junior-data-ai-consultant-8623932/solliciteer
 source_url: https://werkenbij.ilionx.com/vacatures/junior-data-ai-consultant-8623932
-fetched: 2026-11-12
+fetched: 2026-11-13
 status: open
 ---
 

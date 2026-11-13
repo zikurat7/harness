@@ -17,3 +17,18 @@
 ## 2026-11-13 (second sync)
 - CloudWatts: read OK. Saved 1: Software Engineer, Zwolle. Not labeled junior (no minimum years stated, degree required). Email masked on the page, phone only.
 - CoCreate: page is a JavaScript app, plain fetch showed only the footer. Listing text read from the site's data bundle (jobs.storage js). Saved 1: Junior .Net developer, Zwolle. The site also lists Junior Frontend, Junior Backend and a graduation internship in Zwolle (not saved, not requested).
+
+## 2026-11-13 (third sync, all tracked career pages)
+- ilionx: read OK (68 listings), 0 new, 0 closed. Junior Data & AI Consultant (Zwolle) still listed, refreshed. No junior software role; Java Developer (Senior), .NET Software Developer (Medior/Senior), AI Engineer (Medior/Senior), Software Architect (Senior) in Zwolle. Business Analist PEGA (Zwolle, Junior/Medior/Senior) still not saved (analyst role).
+- Fellowmind: read partly (20 of 23, 3 behind "Nog 3 weergeven"). No junior software roles; none of the visible roles states a level. Only entry-level item is a finance internship in Amersfoort. A "New Fellow Program, Omscholingstrajecten en Stages" filter exists; no such listing visible.
+- Zonneplan: read partly (16 of 38, rest loads dynamically). No junior software roles; Software Engineer (Laravel) is medior. Junior items are werkstudent, finance trainee, accountmanager, recruiter (not software). /vacatures/development and /stages not read.
+- Univé: read partly (5 IT & Data roles visible, list cut off; 70 vacancies in total). No junior IT roles among the visible ones (Architect Data & AI, 3x Business Informatie Analist, Data Analist). Remaining IT & Data listings not read.
+- Enexis: read partly (10 of 30 IT matches, pages 2-3 not read). Visible roles are in Den Bosch and Weert (out of range); no junior software roles.
+- Achmea: read OK (10 of 10 on the IT filter), 0 new, 0 closed. Graduation internship Softwareontwikkeling & AI (Apeldoorn) still listed, refreshed. Not saved: IT Management Trainee (Apeldoorn, management); Meewerkstagiair Datagovernance (Apeldoorn, data); Afstudeerstagiair Capaciteitsplanning (meerdere locaties, not software); internships in Leeuwarden and Tilburg (out of range).
+- Thinkwise: read partly (4 of 5 shown). None junior. 1 listing hidden behind "Toon meer vacatures"; /students not read.
+- Kadaster: read partly (4 listings, internal vacancies hidden behind login). No junior roles; IT roles are medior and senior.
+- Vitens: read OK (1 listing: Lead engineer Applicatiebeheer, Zwolle). No junior roles. Only the Digitalisering category was read.
+- Baker Tilly: read OK (8 of 8 on the IT Advisory filter), 0 new, 0 closed. Junior Consultant IT Advisory (Zwolle) still listed, refreshed. Other junior listings (Utrecht, Den Bosch, Rotterdam) out of range.
+- CloudWatts, CoCreate: not in the tracked table, not re-fetched (synced earlier today).
+- inbox: empty, nothing to process.
+- Closed: 0.
