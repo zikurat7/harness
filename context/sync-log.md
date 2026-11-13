@@ -13,3 +13,7 @@
 - Baker Tilly: read OK (8 of 8 on the IT Advisory filter). Saved 1: Junior Consultant IT Advisory, Zwolle (IT audit, not software dev). Junior listings in Utrecht, Den Bosch and Rotterdam are out of range.
 - inbox: empty, nothing to process.
 - Closed: 0 (first sync).
+
+## 2026-11-13 (manual add, user gave two URLs)
+- CloudWatts: read OK. Saved 1: Software Engineer, Zwolle. Not labeled junior (no minimum years stated, degree required). Email masked on the page, phone only.
+- CoCreate: page is a JavaScript app, plain fetch showed only the footer. Listing text read from the site's data bundle (jobs.storage js). Saved 1: Junior .Net developer, Zwolle. The site also lists Junior Frontend, Junior Backend and a graduation internship in Zwolle (not saved, not requested).
